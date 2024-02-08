@@ -168,4 +168,10 @@ strong {
         font-size: medium;
     }
 
+    footer img {
+        border: 0;
+        width: 88px;
+        height: 31px;
+    }
+
 }
